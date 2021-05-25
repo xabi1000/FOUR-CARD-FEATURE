@@ -54,7 +54,7 @@ body{
         grid-template-columns: repeat(3, 351px); 
         grid-template-rows: repeat(2, 251px);
         gap: 31px;
-        justify-content: center;
+        /*justify-content: center;*/
     }
 }
 
